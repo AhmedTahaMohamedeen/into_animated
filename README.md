@@ -19,7 +19,7 @@
 
 
 
-# mobile Screens
+
 <img src="shots/video.gif" height="500em" />
 
 # mobile Screens
